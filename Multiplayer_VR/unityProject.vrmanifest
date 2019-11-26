@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.multiplayer_vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vr\\Desktop\\Multiplayer_VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Multiplayer_VR [Testing]"
+        }
+      }
+    }
+  ]
+}

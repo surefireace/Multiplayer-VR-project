@@ -1,0 +1,7 @@
+Programmers: Donovan Colen and Phillip Kauffold
+AI programming: Phillip Kauffold
+Network programming: Donovan Colen using Photon Unity Networking 2
+Concept Art: Pavel Eryzhenskii
+Models: Brandon Cruz
+Art: Brandon Cruz
+Testing: Pavel Eryzhenskii
